@@ -40,3 +40,4 @@ Java, Python, JavaScript
 - C#
 - Go
 - Lua
+- Groovy
