@@ -1,4 +1,4 @@
-# OpenPoll
+﻿# OpenPoll
 
 Привет!  
 Хочешь поучаствовать в open source проекте, но не уверен(а) в своих силах?   
@@ -19,4 +19,5 @@
 
 Доступные опросы:  
 - [Сколько тебе лет?](polls/age/question.md)
-- [Какой язык программирования для тебя основной?](polls/language/question.md)  
+- [Какой язык программирования для тебя основной?](polls/language/question.md)
+- [Сколько модулей в ППРБ?](polls/PPRBmodules/question.md)
