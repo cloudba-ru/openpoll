@@ -21,3 +21,4 @@
 - [Сколько тебе лет?](polls/age/question.md)
 - [Какой язык программирования для тебя основной?](polls/language/question.md)
 - [Сколько модулей в ППРБ?](polls/PPRBmodules/question.md)
+- [Какие именно песни иногда неплохо сочиняет Винни-пух?] (polls/pooh/question.md)
