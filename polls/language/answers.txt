@@ -19,3 +19,5 @@ JavaScript, C#, T-SQL
 !Golang
 Java
 Java
+Python
+Java, !Python
