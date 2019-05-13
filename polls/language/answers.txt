@@ -31,4 +31,6 @@ Python
 Java, Python
 Golang
 Java
+C#, JavaScript
+Java
 C, !Python, !Java
