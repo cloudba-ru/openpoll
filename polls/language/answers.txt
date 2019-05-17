@@ -38,3 +38,4 @@ Java, Python
 JavaScript, Python
 Java
 C,C++,Java,vba,vbs,vfp
+!Java, JavaScript
