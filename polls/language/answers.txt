@@ -37,3 +37,5 @@ C, !Python, !Java
 Java, Python
 JavaScript, Python
 Java
+!Java, JavaScript
+
